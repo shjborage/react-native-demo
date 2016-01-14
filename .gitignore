@@ -5,3 +5,4 @@ temp/
 tmp/
 *.log
 .DS_Store
+*.xcscmblueprint
