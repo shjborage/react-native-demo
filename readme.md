@@ -68,5 +68,5 @@ react-native(rn)中使用`flex`来布局，目前使用来看，配合`positon :
 
 ## 最终效果图
 
-![image](http://img3.tbcdn.cn/5476e8b07b923/TB1QzADHpXXXXXFXFXXXXXXXXXX)
+![image](http://blog.saick.net/HostedResources/Images/2016/ReactNativePreview.png)
 
